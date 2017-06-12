@@ -1,0 +1,7 @@
+name: InfinityJump
+version: ${project.version}
+main: de.alphahelix.infinityjump.InfinityJump
+depend: [AlphaLibary]
+authors: [AlphaHelix]
+description: Crate jumpmodules and let players play them
+website: https://www.alphahelixdev.github.io
